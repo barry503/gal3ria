@@ -3,7 +3,7 @@ Galeria para guardar tus mejores fotografias
 
 
 # Requerimientos
-tener instalado xamp y habilitarvlos modulos de php y mysql
+tener instalado xamp y habilitar los modulos de php y mysql
 
 colocar la carpeta gal3ria en el servidor
 
