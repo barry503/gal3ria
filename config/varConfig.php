@@ -5,7 +5,7 @@
 #Variables para la conexion de la base de datos
  $host = "localhost";
  $name_bd = "gal3ria";
- $usuario_db = "barry";
- $contrasena_db = "barry";
+ $usuario_db = "root";
+ $contrasena_db = "";
 
 ?>
